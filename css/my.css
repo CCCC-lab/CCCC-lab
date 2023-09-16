@@ -1,0 +1,13 @@
+.ul-table {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.ul-table li{
+    font-size: 18px;
+    border: 1px solid #ffffff;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: left;
+}
